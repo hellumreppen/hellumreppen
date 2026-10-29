@@ -1,6 +1,4 @@
-# Hei, jeg er Oskar 👋
-
-Dataingeniørstudent ved **NTNU i Trondheim**. Jeg liker å forstå hvordan ting fungerer under panseret, fra operativsystemer til algoritmer, og er ute etter å bygge programvare som faktisk gjør nytte for seg.
+Dataingeniørstudent ved **NTNU i Trondheim**.
 
 Utenfor skjermen finner du meg i fjellet på randonee- eller freeskiski, eller på håndballbanen. ⛷️ 🤾
 
