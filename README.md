@@ -1,7 +1,5 @@
 Dataingeniørstudent ved **NTNU i Trondheim**.
 
-Utenfor skjermen finner du meg i fjellet på randonee- eller freeskiski, eller på håndballbanen. ⛷️ 🤾
-
 ---
 
 ## 🛠️ Teknologi
